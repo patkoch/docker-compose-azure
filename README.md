@@ -2,6 +2,10 @@
 
 This is about building containers and deploying the using Docker Compose on your local machine, respectively at Azure.
 
+For a more detailed manual please see:
+
+https://www.patrickkoch.dev/posts/post_20/
+
 ## Building Docker Images with Dockerfiles
 
 After cloning the repository, the containers can be builded by using the "docker build" command.
