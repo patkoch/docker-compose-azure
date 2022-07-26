@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  first-linux-container:
+    image: first-linux-container
+  second-linux-container:
+    image: second-linux-container
