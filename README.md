@@ -28,6 +28,8 @@ docker build -t second-linux-container .
 
 This will create the container images.
 
+# Deployment of the containers using Docker Compose
+
 ## Deploying the Containers on your local Machine
 
 Change the directory to "docker-compose-yaml-files\local" and run following command:
